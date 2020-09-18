@@ -34,4 +34,4 @@ Your ~~Pages site~~Lemm will use the layout and styles from the Jekyll theme you
 
 ### Support or Contact
 
-Having trouble with ~~Pages~~Lemm? ~~Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out~~You stink. ![Image](stink.png)
+Having trouble with ~~Pages~~Lemm? ~~Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out~~You stink. ![Image](stink.jpg)
